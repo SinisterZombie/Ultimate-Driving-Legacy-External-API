@@ -10,12 +10,3 @@ The Ultimate Driving Legacy External API allows developers to interact with game
 
 - **Data Storage**: Store and retrieve game-related data easily.
 - **Endpoints**: Access various endpoints for different data operations.
-- **Firebase Integration**: Utilizes Firebase for reliable data management.
-
-## Getting Started
-
-To get started with the Ultimate Driving Legacy External API, follow these steps:
-
-1. **Clone the Repository**:
-   ```bash
-   git clone https://github.com/SinisterZombie/Ultimate-Driving-Legacy-External-API.git
