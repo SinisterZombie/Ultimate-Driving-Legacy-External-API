@@ -2,7 +2,7 @@
   "responses": [
     {
       "method": "Retrieve",
-      "playerId": 123456,
+      "playerId": 255501809,
       "data": {
         "Result": "SUCCESS",
         "Money": 15000,
@@ -14,7 +14,7 @@
     },
     {
       "method": "send",
-      "playerId": 123456,
+      "playerId": 255501809,
       "status": "NEW_PLAYER_CREATED",
       "data": {
         "Money": 10000,
@@ -24,7 +24,7 @@
     },
     {
       "method": "getvehicledata",
-      "playerId": 123456,
+      "playerId": 255501809,
       "data": {
         "result": "SUCCESS",
         "vehicleData": {
