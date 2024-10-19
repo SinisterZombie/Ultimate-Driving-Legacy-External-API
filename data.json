@@ -1,8 +1,38 @@
 {
-    "255501809": {
-        "Points": 100
+  "responses": [
+    {
+      "method": "Retrieve",
+      "playerId": 123456,
+      "data": {
+        "Result": "SUCCESS",
+        "Money": 15000,
+        "Bounty": 500,
+        "Miles": 150,
+        "Vehicles": "[{\"vehicleId\": \"Sedan\", \"owned\": true, \"refunded\": false}]",
+        "Banned": false
+      }
     },
-    "987654321": {
-        "Points": 200
+    {
+      "method": "send",
+      "playerId": 123456,
+      "status": "NEW_PLAYER_CREATED",
+      "data": {
+        "Money": 10000,
+        "Bounty": 0,
+        "Miles": 0
+      }
+    },
+    {
+      "method": "getvehicledata",
+      "playerId": 123456,
+      "data": {
+        "result": "SUCCESS",
+        "vehicleData": {
+          "vehicleId": "Sedan",
+          "owned": true,
+          "refunded": false
+        }
+      }
     }
+  ]
 }
