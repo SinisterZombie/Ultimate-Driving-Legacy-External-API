@@ -1,5 +1,5 @@
-let data = {
+{
     "UserId": {
         "Points": 100
     }
-};
+}
